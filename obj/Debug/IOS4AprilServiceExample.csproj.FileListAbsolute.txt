@@ -1,0 +1,6 @@
+D:\Brijesh\IOS4AprilServiceExample\IOS4AprilServiceExample\bin\IOS4AprilServiceExample.dll.config
+D:\Brijesh\IOS4AprilServiceExample\IOS4AprilServiceExample\bin\IOS4AprilServiceExample.dll
+D:\Brijesh\IOS4AprilServiceExample\IOS4AprilServiceExample\bin\IOS4AprilServiceExample.pdb
+D:\Brijesh\IOS4AprilServiceExample\IOS4AprilServiceExample\obj\Debug\IOS4AprilServiceExample.csprojResolveAssemblyReference.cache
+D:\Brijesh\IOS4AprilServiceExample\IOS4AprilServiceExample\obj\Debug\IOS4AprilServiceExample.dll
+D:\Brijesh\IOS4AprilServiceExample\IOS4AprilServiceExample\obj\Debug\IOS4AprilServiceExample.pdb
